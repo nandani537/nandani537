@@ -19,11 +19,11 @@
 ### ⚡ **Skills & Technologies**
 
 - -📝 **Programming Languages:** Python, R
-- - 🏗 **Big Data & ETL:** SQL Server, MySQL, Data Pipelines
-- - 📊 **Data Analytics & BI:** Power BI, DAX, Power Query, SQL, Tableau
-- -🧠 **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, XGBoost
-- - 📈 **Forecasting & Predictive Modeling:** Time Series (ARIMA, LSTM, Prophet)
-- - 🛠 **Data Engineering:** Data Cleaning, Feature Engineering, Data Versioning (Git/GitHub)
+- 🏗 **Big Data & ETL:** SQL Server, MySQL, Data Pipelines
+- 📊 **Data Analytics & BI:** Power BI, DAX, Power Query, SQL, Tableau
+- 🧠 **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, XGBoost
+- 📈 **Forecasting & Predictive Modeling:** Time Series (ARIMA, LSTM, Prophet)
+- 🛠 **Data Engineering:** Data Cleaning, Feature Engineering, Data Versioning (Git/GitHub)
 
 ---
 
@@ -45,7 +45,7 @@ Designed an interactive **Power BI dashboard** for patient monitoring and trend 
 
 ---
 
-### 🌟 **How I Can Add Value**
+### 🌟 **How can I add value**
 ✅ Creating end-to-end **machine learning solutions** for business problems  
 ✅ Building **interactive dashboards** for **data-driven decision-making**  
 ✅ Optimizing **forecasting models** for **retail & healthcare analytics**  

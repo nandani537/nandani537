@@ -40,16 +40,14 @@ A curated collection of machine learning and data science projects across health
 ### 🔬 Breast Cancer Classification
 📍 **Repo**: Breast Cancer Classification  
 🛠 **Tech Stack**: Python, Scikit–Learn, Power BI  
-🔍 **Description**:  
-Built a machine-learning model for breast cancer classification using medical imaging datasets.
+🔍 **Description**: Built a machine-learning model for breast cancer classification using medical imaging datasets.
 
 ---
 
 ### 🧫 DNA Classification for Healthcare Analytics  
 📍 **Repo**: DNA Classification  
 🛠 **Tech Stack**: Python, Machine Learning, Power BI  
-🔍 **Description**:  
-Developed a DNA sequence classification model to analyze genetic patterns for disease prediction.
+🔍 **Description**: Developed a DNA sequence classification model to analyze genetic patterns for disease prediction.
 
 ---
 
@@ -58,8 +56,7 @@ Developed a DNA sequence classification model to analyze genetic patterns for di
 ### 🚢 Ship Detection from Satellite Images (CNN & TensorFlow)  
 📍 **Repo**: Ship Detection  
 🛠 **Tech Stack**: Python, TensorFlow, CNN, OpenCV  
-🔍 **Description**:  
-Developed a Convolutional Neural Network (CNN) for ship detection in satellite images, achieving high accuracy. Applied advanced feature extraction and preprocessing techniques to enhance performance.
+🔍 **Description**: Developed a Convolutional Neural Network (CNN) for ship detection in satellite images, achieving high accuracy. Applied advanced feature extraction and preprocessing techniques to enhance performance.
 
 ---
 
@@ -68,8 +65,7 @@ Developed a Convolutional Neural Network (CNN) for ship detection in satellite i
 ### 📊 Customer Churn Prediction  
 📍 **Repo**: Customer Churn Prediction  
 🛠 **Tech Stack**: Python, Scikit–Learn, Random Forest, XGBoost  
-🔍 **Description**:  
-Built a supervised ML model to predict customer churn, optimizing telecom retention strategies. Achieved high sensitivity using Random Forest & XGBoost classifiers.
+🔍 **Description**: Built a supervised ML model to predict customer churn, optimizing telecom retention strategies. Achieved high sensitivity using Random Forest & XGBoost classifiers.
 
 ---
 
@@ -78,8 +74,7 @@ Built a supervised ML model to predict customer churn, optimizing telecom retent
 ### 📈 Walmart Sales Forecasting  
 📍 **Repo**: Walmart Sales Forecasting  
 🛠 **Tech Stack**: Python, Pandas, Regression, Power BI  
-🔍 **Description**:  
-Developed regression models to forecast retail sales trends, improving market share.
+🔍 **Description**: Developed regression models to forecast retail sales trends, improving market share.
 
 ---
 

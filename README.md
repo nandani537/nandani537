@@ -51,7 +51,8 @@ A curated collection of machine learning and data science projects across health
 
 ## 🌍 Image Processing & Computer Vision
 
-### 🚢 Ship Detection from Satellite Images (CNN & TensorFlow)  
+### 🚢 Ship Detection from Satellite Images (CNN & TensorFlow) (https://github.com/nandani537/Ship-Detection)
+
 📍 **Repo**: Ship Detection  
 🛠 **Tech Stack**: Python, TensorFlow, CNN, OpenCV  
 🔍 **Description**: Developed a Convolutional Neural Network (CNN) for ship detection in satellite images, achieving high accuracy. Applied advanced feature extraction and preprocessing techniques to enhance performance.

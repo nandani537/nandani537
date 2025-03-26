@@ -15,17 +15,17 @@
 📍 Currently based in **Lillestrøm, Norway**  
 📧 Reach me at **nandanirouniyar11@gmail.com**  
 🌐 Portfolio: [nandani537.github.io/Nandani-Portfolio](https://nandani537.github.io/Nandani-Portfolio)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nandani-rouniyar-218b83231/) | [Kaggle](https://www.kaggle.com/) | [Medium](https://medium.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/nandani-rouniyar-218b83231/))
 
 ---
 
 ### ⚡ **Skills & Technologies**
 
-- 🧠 **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, XGBoost
-- 📊 **Data Analytics & BI:** Power BI, DAX, Power Query, SQL, Tableau
-- 📈 **Forecasting & Predictive Modeling:** Time Series (ARIMA, LSTM, Prophet)
-- 🏗 **Big Data & ETL:** SQL Server, MySQL, Data Pipelines
 - 📝 **Programming Languages:** Python, R
+- - 🏗 **Big Data & ETL:** SQL Server, MySQL, Data Pipelines
+- - 📊 **Data Analytics & BI:** Power BI, DAX, Power Query, SQL, Tableau
+- 🧠 **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, XGBoost
+- 📈 **Forecasting & Predictive Modeling:** Time Series (ARIMA, LSTM, Prophet)
 - 🛠 **Data Engineering:** Data Cleaning, Feature Engineering, Data Versioning (Git/GitHub)
 
 ---
@@ -39,10 +39,12 @@ Developed a **CNN model** to classify ship images from satellite datasets with *
 Built a **supervised machine learning model** using **Random Forest & XGBoost** to predict customer churn with **89% sensitivity**, aiding retention strategies. 
 
 #### 3️⃣ [📈 Walmart Sales Forecasting (Regression & Power BI)](https://github.com/nandani537/Walmart-Sales-Forecasting-New) 
-Implemented **ARIMA** models to forecast retail market trends, improving market share by **15%** for a leading brand. 
+Implemented **Regression** models to forecast retail market trends, improving market share by **15%** for a leading brand. 
 
-#### 4️⃣ [📊 Power BI Dashboard for Healthcare Analytics](https://github.com/nandani537/Healthcare-PowerBI-Dashboard)  
+#### 4️⃣ [ BreastCancer Classification for Healthcare Analytics](https://github.com/nandani537/Breast-Cancer-Classification))  
 Designed an interactive **Power BI dashboard** for patient monitoring and trend analysis, improving operational efficiency by **30%**.
+
+
 
 ---
 

@@ -35,14 +35,14 @@ A curated collection of machine learning and data science projects across health
 
 ## 🏥 Healthcare Analytics
 
-### 🔬 Breast Cancer Classification
+### 🔬 [Breast Cancer Classification](https://github.com/nandani537/Breast-Cancer-Classification) 
 📍 **Repo**: Breast Cancer Classification  
 🛠 **Tech Stack**: Python, Scikit–Learn, Power BI  
 🔍 **Description**: Built a machine-learning model for breast cancer classification using medical imaging datasets.
 
 ---
 
-### 🧫 DNA Classification for Healthcare Analytics  
+### 🧫 [DNA Classification for Healthcare Analytics](https://github.com/nandani537/DNA-Classification)  
 📍 **Repo**: DNA Classification  
 🛠 **Tech Stack**: Python, Machine Learning, Power BI  
 🔍 **Description**: Developed a DNA sequence classification model to analyze genetic patterns for disease prediction.
@@ -51,7 +51,7 @@ A curated collection of machine learning and data science projects across health
 
 ## 🌍 Image Processing & Computer Vision
 
-### 🚢 Ship Detection from Satellite Images (CNN & TensorFlow) (https://github.com/nandani537/Ship-Detection)
+### 🚢 [Ship Detection from Satellite Images (CNN & TensorFlow)](https://github.com/nandani537/Ship-Detection)
 
 📍 **Repo**: Ship Detection  
 🛠 **Tech Stack**: Python, TensorFlow, CNN, OpenCV  
@@ -61,7 +61,7 @@ A curated collection of machine learning and data science projects across health
 
 ## 📡 Telecommunications & Customer Analytics
 
-### 📊 Customer Churn Prediction  
+### 📊 [Customer Churn Prediction](https://github.com/nandani537/vodafone-churn-prediction)  
 📍 **Repo**: Customer Churn Prediction  
 🛠 **Tech Stack**: Python, Scikit–Learn, Random Forest, XGBoost  
 🔍 **Description**: Built a supervised ML model to predict customer churn, optimizing telecom retention strategies. Achieved high sensitivity using Random Forest & XGBoost classifiers.
@@ -70,7 +70,7 @@ A curated collection of machine learning and data science projects across health
 
 ## 🛒 Retail & Business Intelligence
 
-### 📈 Walmart Sales Forecasting  
+### 📈 [Walmart Sales Forecasting](https://github.com/nandani537/Walmart-Sales-Forecasting-New) 
 📍 **Repo**: Walmart Sales Forecasting  
 🛠 **Tech Stack**: Python, Pandas, Regression, Power BI  
 🔍 **Description**: Developed regression models to forecast retail sales trends, improving market share.

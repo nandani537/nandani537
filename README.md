@@ -6,11 +6,11 @@
 ---
 
 ### 📌 **About Me**  
-- 🔹 **Senior Machine Learning Engineer** | Vyobotics Pte. Ltd, Singapore  
-- 🔹 **Data Analyst** | WNS Global Services (Haleon & GSK Clients)  
-- 🔹 **Expert in Data Visualization & Predictive Analytics**  
-- 🔹 **Strong Background in AI, Deep Learning & Time Series Forecasting**  
-- 🔹 **Master’s in Applied Computer & Information Technology**  
+- Senior Machine Learning Engineer** | Vyobotics Pte. Ltd, Singapore  
+- Data Analyst** | WNS Global Services (Haleon & GSK Clients)  
+- Expert in Data Visualization & Predictive Analytics**  
+- Strong Background in AI, Deep Learning & Time Series Forecasting**  
+- Master’s in Applied Computer & Information Technology**  
 
 📍 Currently based in **Lillestrøm, Norway**  
 
@@ -21,8 +21,8 @@
 - 📝 **Programming Languages:** Python, R
 - 🏗 **Big Data & ETL:** SQL Server, MySQL, Data Pipelines
 - 📊 **Data Analytics & BI:** Power BI, DAX, Power Query, SQL, Tableau
-- 🧠 **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, XGBoost
 - 📈 **Forecasting & Predictive Modeling:** Time Series (ARIMA, LSTM)
+- - 🧠 **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, XGBoost
 - 🛠 **Data Engineering:** Data Cleaning, Feature Engineering, Data Versioning (Git/GitHub)
 
 ---

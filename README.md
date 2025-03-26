@@ -13,9 +13,6 @@
 - 🔹 **Master’s in Applied Computer & Information Technology**  
 
 📍 Currently based in **Lillestrøm, Norway**  
-📧 Reach me at **nandanirouniyar11@gmail.com**  
-🌐 Portfolio: [nandani537.github.io/Nandani-Portfolio](https://nandani537.github.io/Nandani-Portfolio)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nandani-rouniyar-218b83231/))
 
 ---
 

@@ -27,8 +27,6 @@
 
 ---
 
-### 🚀 **Highlighted Projects**
-
 # 🚀 Highlighted Projects by Domain
 
 A curated collection of machine learning and data science projects across healthcare, telecommunications, computer vision, and retail domains. Each project demonstrates end-to-end problem-solving using real-world datasets, data preprocessing, modeling, evaluation, and visualization.

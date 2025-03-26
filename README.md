@@ -35,7 +35,7 @@
 #### 1️⃣ [🔍 Ship Detection from Satellite Images (CNN & TensorFlow)](https://github.com/nandani537/Ship-Detection))  
 Developed a **CNN model** to classify ship images from satellite datasets with **90% accuracy**, optimizing feature extraction and preprocessing techniques. 
 
-#### 2️⃣ [📊 Customer Churn Prediction (ML & Python)](https://github.com/nandani537/Customer-Churn-Prediction)  
+#### 2️⃣ [📊 Customer Churn Prediction (ML & Python)](https://github.com/nandani537/vodafone-churn-prediction))  
 Built a **supervised machine learning model** using **Random Forest & XGBoost** to predict customer churn with **89% sensitivity**, aiding retention strategies. 
 
 #### 3️⃣ [📈 Walmart Sales Forecasting (Regression & Power BI)](https://github.com/nandani537/Walmart-Sales-Forecasting-New) 

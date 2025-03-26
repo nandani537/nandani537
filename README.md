@@ -21,27 +21,27 @@
 
 ### ⚡ **Skills & Technologies**
 
-- 📝 **Programming Languages:** Python, R
+- -📝 **Programming Languages:** Python, R
 - - 🏗 **Big Data & ETL:** SQL Server, MySQL, Data Pipelines
 - - 📊 **Data Analytics & BI:** Power BI, DAX, Power Query, SQL, Tableau
-- 🧠 **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, XGBoost
-- 📈 **Forecasting & Predictive Modeling:** Time Series (ARIMA, LSTM, Prophet)
-- 🛠 **Data Engineering:** Data Cleaning, Feature Engineering, Data Versioning (Git/GitHub)
+- -🧠 **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, XGBoost
+- - 📈 **Forecasting & Predictive Modeling:** Time Series (ARIMA, LSTM, Prophet)
+- - 🛠 **Data Engineering:** Data Cleaning, Feature Engineering, Data Versioning (Git/GitHub)
 
 ---
 
 ### 🚀 **Highlighted Projects**
 
-#### 1️⃣ [🔍 Ship Detection from Satellite Images (CNN & TensorFlow)](https://github.com/nandani537/Ship-Detection))  
+#### 1️⃣ [🔍 Ship Detection from Satellite Images (CNN & TensorFlow)](https://github.com/nandani537/Ship-Detection) 
 Developed a **CNN model** to classify ship images from satellite datasets with **90% accuracy**, optimizing feature extraction and preprocessing techniques. 
 
-#### 2️⃣ [📊 Customer Churn Prediction (ML & Python)](https://github.com/nandani537/vodafone-churn-prediction))  
+#### 2️⃣ [📊 Customer Churn Prediction (ML & Python)](https://github.com/nandani537/vodafone-churn-prediction) 
 Built a **supervised machine learning model** using **Random Forest & XGBoost** to predict customer churn with **89% sensitivity**, aiding retention strategies. 
 
 #### 3️⃣ [📈 Walmart Sales Forecasting (Regression & Power BI)](https://github.com/nandani537/Walmart-Sales-Forecasting-New) 
 Implemented **Regression** models to forecast retail market trends, improving market share by **15%** for a leading brand. 
 
-#### 4️⃣ [ BreastCancer Classification for Healthcare Analytics](https://github.com/nandani537/Breast-Cancer-Classification))  
+#### 4️⃣ [ BreastCancer Classification for Healthcare Analytics](https://github.com/nandani537/Breast-Cancer-Classification)
 Designed an interactive **Power BI dashboard** for patient monitoring and trend analysis, improving operational efficiency by **30%**.
 
 

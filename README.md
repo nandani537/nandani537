@@ -32,7 +32,7 @@
 
 ### 🚀 **Highlighted Projects**
 
-#### 1️⃣ [🔍 Ship Detection from Satellite Images (CNN & TensorFlow)]([https://github.com/nandani537/Ship-Detection-CNN])  
+#### 1️⃣ [🔍 Ship Detection from Satellite Images (CNN & TensorFlow)](https://github.com/nandani537/Ship-Detection-CNN)  
 Developed a **CNN model** to classify ship images from satellite datasets with **90% accuracy**, optimizing feature extraction and preprocessing techniques. 
 
 #### 2️⃣ [📊 Customer Churn Prediction (ML & Python)](https://github.com/nandani537/Customer-Churn-Prediction)  

@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Nandani Rouniyar!  
 ### 🚀 Data Analyst | Machine Learning Engineer | Power BI Expert | Telling Stories through Data   
 
-🔍 Passionate about turning data into actionable insights and building AI-driven solutions! With **5+ years of experience** in **data science, machine learning, and business intelligence**, I specialize in extracting meaningful patterns, optimizing data pipelines, and delivering high-impact solutions for industries like healthcare, retail, and telecommunications.
+🔍 Passionate about turning data into actionable insights and building AI-driven solutions! With **5+ years of experience** in **data science, machine learning, and business intelligence**, I specialize in extracting meaningful patterns, optimizing data pipelines, and delivering high-impact solutions for industries like healthcare, retail, and telecommunication.
 
 ---
 
